@@ -1,0 +1,15 @@
+{
+  "bracketSameLine": true,
+  "printWidth": 130,
+  "singleQuote": true,
+  "useTabs": false,
+  "semi": true,
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "parser": "angular"
+      }
+    }
+  ]
+}
